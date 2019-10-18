@@ -1,0 +1,9 @@
+C:\Users\hautlt\Documents\Visual Studio 2017\Projects\SampleUniFiPortalInCSharp\UnfiConnect\bin\Release\UnfiConnect.dll
+C:\Users\hautlt\Documents\Visual Studio 2017\Projects\SampleUniFiPortalInCSharp\UnfiConnect\bin\Release\UnfiConnect.pdb
+C:\Users\hautlt\Documents\Visual Studio 2017\Projects\SampleUniFiPortalInCSharp\UnfiConnect\bin\Release\Newtonsoft.Json.dll
+C:\Users\hautlt\Documents\Visual Studio 2017\Projects\SampleUniFiPortalInCSharp\UnfiConnect\bin\Release\Newtonsoft.Json.xml
+C:\Users\hautlt\Documents\Visual Studio 2017\Projects\SampleUniFiPortalInCSharp\UnfiConnect\obj\Release\UnfiConnect.csprojAssemblyReference.cache
+C:\Users\hautlt\Documents\Visual Studio 2017\Projects\SampleUniFiPortalInCSharp\UnfiConnect\obj\Release\UnfiConnect.csproj.CoreCompileInputs.cache
+C:\Users\hautlt\Documents\Visual Studio 2017\Projects\SampleUniFiPortalInCSharp\UnfiConnect\obj\Release\UnfiConnect.csproj.CopyComplete
+C:\Users\hautlt\Documents\Visual Studio 2017\Projects\SampleUniFiPortalInCSharp\UnfiConnect\obj\Release\UnfiConnect.dll
+C:\Users\hautlt\Documents\Visual Studio 2017\Projects\SampleUniFiPortalInCSharp\UnfiConnect\obj\Release\UnfiConnect.pdb
